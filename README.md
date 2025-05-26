@@ -37,9 +37,9 @@ The original directory structure is as follows, this repo only contains the bold
 
 │   └── unrolling-sgd
 
-└── **unlearning-attack**
+**└── unlearning-attack**
 
-    └── LCODEC-deep-unlearning
+**    └── LCODEC-deep-unlearning**
 
 -----------------------------------------------------------------------------------
 
