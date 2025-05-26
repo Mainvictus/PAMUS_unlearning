@@ -6,22 +6,39 @@ The following README comes from a senior in the research group. This graduation 
 The original directory structure is as follows, this repo only contains the bold parts.
 
 .
+
 ├── BSS-generation
+
 │   ├── BSS_distillation
+
 │   ├── Conditional-GANs-Pytorch
+
 │   └── README.md
+
 ├── README.md
+
 ├── related-work
+
 │   └── attack-unlearning
+
 ├── unlearning-algorithm
+
 │   ├── AmnesiacML
+
 │   ├── DeltaGrad
+
 │   ├── LCODEC-deep-unlearning
+
 │   ├── SelectiveForgetting
+
 │   ├── certified_removal
+
 │   ├── mcmc-unlearning
+
 │   └── unrolling-sgd
+
 └── **unlearning-attack**
+
     └── **LCODEC-deep-unlearning**
 
 -----------------------------------------------------------------------------------
