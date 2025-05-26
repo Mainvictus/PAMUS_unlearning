@@ -39,7 +39,7 @@ The original directory structure is as follows, this repo only contains the bold
 
 └── **unlearning-attack**
 
-    └── **LCODEC-deep-unlearning**
+    └── LCODEC-deep-unlearning
 
 -----------------------------------------------------------------------------------
 
